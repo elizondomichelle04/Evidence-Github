@@ -1,0 +1,3 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113726544	K00026	0.517120432070808	0.0701996848559711	Malate dehydrogenase
+LOC113710424	K05933	-0.79910469012455	0.00241993033956959	Belongs to the iron ascorbate-dependent oxidoreductase family

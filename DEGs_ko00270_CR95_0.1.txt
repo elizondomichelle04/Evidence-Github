@@ -1,0 +1,9 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113687832	K00815	3.15683897252894	1.50842702612568e-05	Aminotransferase class I and II
+LOC113691110	K00815	2.73638365376034	0.000340889726916935	Aminotransferase class I and II
+LOC113691088	K05933	2.38099022906823	0.0144004959728319	Belongs to the iron ascorbate-dependent oxidoreductase family
+LOC113690378	K05933	1.93466464027072	2.500915581276e-09	Belongs to the iron ascorbate-dependent oxidoreductase family
+LOC113719666	K05933	1.86294355340874	0.0477345078798451	Belongs to the iron ascorbate-dependent oxidoreductase family
+LOC113690379	K05933	1.80141735880313	0.00315585666653535	Belongs to the iron ascorbate-dependent oxidoreductase family
+LOC113690344	K05933	1.36455292963069	0.0143579202893601	Belongs to the iron ascorbate-dependent oxidoreductase family
+LOC113734140	K01738	-0.531815382099385	0.0208470560675033	Belongs to the cysteine synthase cystathionine beta- synthase family

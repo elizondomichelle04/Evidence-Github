@@ -1,0 +1,2 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113726802	K14488	0.561494687175349	0.0100317959778437	Auxin responsive protein

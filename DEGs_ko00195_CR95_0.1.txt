@@ -1,0 +1,2 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113739930	K02717	-3.32439536584814	0.0942569028248535	psbP-like protein 1

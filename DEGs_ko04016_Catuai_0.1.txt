@@ -1,0 +1,50 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113701308	K03781	0.933309868768651	0.000577995282298934	Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide
+LOC113698290	K03781	0.85060811070496	0.000678110780245552	Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide
+LOC113733889	K02183	0.650333941189355	0.0974501826532762	EF-hand domain
+LOC113733889	K16465	0.650333941189355	0.0974501826532762	EF-hand domain
+LOC113732687	K12619	-0.327674047810183	0.0859811589791594	5'-3' exoribonuclease
+LOC113732687	K20553	-0.327674047810183	0.0859811589791594	5'-3' exoribonuclease
+LOC113735324	K14509	-0.551585624250047	0.0857230371538134	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC140007751	K04730	-0.684391696561086	0.0422113561780277	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC140007751	K04733	-0.684391696561086	0.0422113561780277	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC140007751	K13420	-0.684391696561086	0.0422113561780277	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC140014489	K17686	-0.73482042460143	0.00217211042963004	Copper-transporting ATPase
+LOC113718330	K14509	-0.773326966735575	0.00258688344398512	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113739669	K13447	-0.8809559618158	0.00331123476008916	respiratory burst oxidase homolog protein
+LOC113706339	K17686	-0.963880567023281	0.00109235100961977	Copper-transporting ATPase
+LOC113743418	K04730	-0.968080626843516	0.00241993033956959	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113743418	K04733	-0.968080626843516	0.00241993033956959	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113743418	K13420	-0.968080626843516	0.00241993033956959	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113732630	K04730	-1.02162833260305	0.0944166178110238	LRR receptor-like serine threonine-protein kinase
+LOC113732630	K04733	-1.02162833260305	0.0944166178110238	LRR receptor-like serine threonine-protein kinase
+LOC113732630	K13420	-1.02162833260305	0.0944166178110238	LRR receptor-like serine threonine-protein kinase
+LOC113716172	K04730	-1.02750219513303	0.0835796622572774	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113716172	K04733	-1.02750219513303	0.0835796622572774	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113716172	K13420	-1.02750219513303	0.0835796622572774	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113732736	K04730	-1.07170471881049	0.00743194006481517	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113732736	K04733	-1.07170471881049	0.00743194006481517	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113732736	K13420	-1.07170471881049	0.00743194006481517	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113715802	K04730	-1.51116350130373	0.0931544965344802	Serine-threonine protein kinase, plant-type
+LOC113715802	K04733	-1.51116350130373	0.0931544965344802	Serine-threonine protein kinase, plant-type
+LOC113715802	K13420	-1.51116350130373	0.0931544965344802	Serine-threonine protein kinase, plant-type
+LOC113734243	K14509	-1.57882954498358	0.00932465590539553	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113699341	K01183	-1.82358628341098	0.00191629853350635	Chitinase class I
+LOC113699341	K20547	-1.82358628341098	0.00191629853350635	Chitinase class I
+LOC113711758	K13416	-1.86761705541081	0.0232542587555269	Somatic embryogenesis receptor kinase
+LOC140003830	K14509	-1.91709536227878	0.00678081611207337	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113716646	K04730	-1.9271473561072	0.0642448308856473	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113716646	K04733	-1.9271473561072	0.0642448308856473	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113716646	K13420	-1.9271473561072	0.0642448308856473	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113709404	K04730	-1.95183331052691	0.0642304037820897	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113709404	K04733	-1.95183331052691	0.0642304037820897	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113709404	K13420	-1.95183331052691	0.0642304037820897	LRR receptor-like serine threonine-protein kinase At3g47570
+LOC113709404	K04733	-1.95183331052691	0.0642304037820897	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+LOC113709404	K13420	-1.95183331052691	0.0642304037820897	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+LOC113699340	K01183	-1.97324595817493	0.00609752747053059	Chitinase class I
+LOC113699340	K20547	-1.97324595817493	0.00609752747053059	Chitinase class I
+LOC113692322	K02183	-2.17857057558408	0.0218288139524506	Calmodulin-like protein
+LOC113692322	K13448	-2.17857057558408	0.0218288139524506	Calmodulin-like protein
+LOC113717586	K04730	-2.50200502231641	0.0665738305677454	Serine-threonine protein kinase, plant-type
+LOC113717586	K04733	-2.50200502231641	0.0665738305677454	Serine-threonine protein kinase, plant-type
+LOC113717586	K13420	-2.50200502231641	0.0665738305677454	Serine-threonine protein kinase, plant-type

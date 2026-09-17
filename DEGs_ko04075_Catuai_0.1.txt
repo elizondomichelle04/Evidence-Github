@@ -1,0 +1,17 @@
+Geneid	KO	log2FoldChange	padj	Description
+LOC113691134	K08235	2.77832763848314	0.0464045830073618	Catalyzes xyloglucan endohydrolysis (XEH) and or endotransglycosylation (XET). Cleaves and religates xyloglucan polymers, an essential constituent of the primary cell wall, and thereby participates in cell wall construction of growing tissues
+LOC113691134	K14504	2.77832763848314	0.0464045830073618	Catalyzes xyloglucan endohydrolysis (XEH) and or endotransglycosylation (XET). Cleaves and religates xyloglucan polymers, an essential constituent of the primary cell wall, and thereby participates in cell wall construction of growing tissues
+LOC113691977	K08235	2.40625860628983	0.00130329518420908	Catalyzes xyloglucan endohydrolysis (XEH) and or endotransglycosylation (XET). Cleaves and religates xyloglucan polymers, an essential constituent of the primary cell wall, and thereby participates in cell wall construction of growing tissues
+LOC113691977	K14504	2.40625860628983	0.00130329518420908	Catalyzes xyloglucan endohydrolysis (XEH) and or endotransglycosylation (XET). Cleaves and religates xyloglucan polymers, an essential constituent of the primary cell wall, and thereby participates in cell wall construction of growing tissues
+LOC113689712	K14508	0.258586373594354	0.0740090974747159	Regulatory protein NPR3-like
+LOC113716907	K14489	-0.417517967536315	0.0311494763864636	Histidine kinase
+LOC113742088	K14484	-0.448488469926207	0.0853304771084754	Aux IAA proteins are short-lived transcriptional factors that function as repressors of early auxin response genes at low auxin concentrations
+LOC113719277	K14489	-0.458396374078826	0.0117279947303744	Histidine kinase
+LOC113733282	K14487	-0.479878883202137	0.065373083040414	GH3 auxin-responsive promoter
+LOC113733282	K14506	-0.479878883202137	0.065373083040414	GH3 auxin-responsive promoter
+LOC113735324	K14509	-0.551585624250047	0.0857230371538134	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113718330	K14509	-0.773326966735575	0.00258688344398512	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113701545	K14487	-1.57554113557965	0.020734257031781	Indole-3-acetic acid-amido synthetase
+LOC113734243	K14509	-1.57882954498358	0.00932465590539553	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
+LOC113711758	K13416	-1.86761705541081	0.0232542587555269	Somatic embryogenesis receptor kinase
+LOC140003830	K14509	-1.91709536227878	0.00678081611207337	May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway
